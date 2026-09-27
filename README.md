@@ -200,7 +200,7 @@ Multi-admin support
 
 ## 👨‍💻 Developer
 
-Jatin Kumar
+Jatin Kumar 
 Aspiring Full-Stack Web Developer
 GitHub: https://github.com/jatin-anshul
 
