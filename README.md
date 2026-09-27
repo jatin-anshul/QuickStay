@@ -128,8 +128,9 @@ It allows users to browse hotels, check availability, book rooms, and make secur
 
 ### Clone Repository
 
-git clone https://github.com/Rishabh2724/QuickStay-FullStack.git
-cd QuickStay-FullStack
+[git clone https://github.com/jatin-anshul/QuickStay.git]
+cd QuickStay
+
 
 ### Frontend Setup 
 
@@ -199,8 +200,9 @@ Multi-admin support
 
 ## 👨‍💻 Developer
 
-Rishabh Agarwal
+Jatin Kumar
 Aspiring Full-Stack Web Developer
-GitHub: https://github.com/Rishabh2724
+GitHub: https://github.com/jatin-anshul
+
 
 ---
