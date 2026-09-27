@@ -199,8 +199,8 @@ Multi-admin support
 
 ## 👨‍💻 Developer
 
-Rishabh Agarwal
+Jatin Kumar
 Aspiring Full-Stack Web Developer
-GitHub: https://github.com/Rishabh2724
+GitHub: https://github.com/jatin-anshul
 
 ---
